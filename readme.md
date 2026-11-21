@@ -75,6 +75,7 @@
 - [Ito AI](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - Dictation app for macOS. (FOSS)
 - [Screenpipe](https://screenpipe.com) - Local screen and audio recording with Whisper transcription. (Source-available)
+- [AudioSmith](https://github.com/hehehai/AudioSmith) - Voice studio for macOS that transcribes with Whisper or Qwen3-ASR on Apple silicon, alongside text to speech and dubbing. (FOSS)
 
 ## Web apps
 
